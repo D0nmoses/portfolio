@@ -19,3 +19,11 @@ li a{
 li a:hover{
   background-color: navy;
 }
+h1.name{
+  float:right;
+  font-size: 70px;
+}
+#home{
+  padding-top: 4px;
+  background-color: gray;
+}
