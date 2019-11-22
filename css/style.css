@@ -51,6 +51,7 @@ h1.name{
 #tweet{
   font-size: 20px;
   background-color: grey;
+  margin: 0;
 }
 body{
   background-color: lightgrey;
