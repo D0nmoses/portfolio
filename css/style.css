@@ -4,6 +4,7 @@ ul{
   padding: 0;
   overflow: hidden;
   background-color: cadetblue;
+  
 }
 li{
   float: left;
@@ -21,7 +22,8 @@ li a:hover{
 }
 h1.name{
   float:right;
-  font-size: 70px;
+  font-size: 65px;
+  font-family: monospace;
 }
 #home{
   padding-top: 4px;
